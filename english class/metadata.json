@@ -1,0 +1,6 @@
+{
+  "name": "Success English Classes",
+  "description": "Leading online English training institute helping learners build fluency, confidence, and effective communication skills. Features standard Spoken English and IELTS preparation guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
